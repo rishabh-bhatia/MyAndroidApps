@@ -1,0 +1,7 @@
+#Sat Oct 29 11:22:31 IST 2016
+base.0=/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2aee9ffb24db7cb95562a789f125329577daacb2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4349f1b6e442673a4b03102004d4bfa4487297b3/classes.dex
+base.1=/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4349f1b6e442673a4b03102004d4bfa4487297b3
+file.0=/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2aee9ffb24db7cb95562a789f125329577daacb2/classes.dex

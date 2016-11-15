@@ -1,0 +1,7 @@
+#Sat Nov 05 12:08:01 IST 2016
+base.0=/Users/rishabh/Desktop/AndroidApps/Referance apps Aptech/RadioBackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2feab13615505aed282dbc4ca1ec83c60bce3c72
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/rishabh/Desktop/AndroidApps/Referance apps Aptech/RadioBackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_47c7b307c24f2bdbd4dfd1accdd7394c55a820ab/classes.dex
+base.1=/Users/rishabh/Desktop/AndroidApps/Referance apps Aptech/RadioBackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_47c7b307c24f2bdbd4dfd1accdd7394c55a820ab
+file.0=/Users/rishabh/Desktop/AndroidApps/Referance apps Aptech/RadioBackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2feab13615505aed282dbc4ca1ec83c60bce3c72/classes.dex

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="25"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="3027859059268"
+    token="-5285273430436448400"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="183" />
+    <task
+        name="instant-run-dex"
+        duration="38" />
+    <task
+        name="instant-run-transform"
+        duration="49" />
+    <task
+        name="verifier"
+        duration="14" />
+
+    <artifact
+        location="/Users/rishabh/Desktop/AndroidApps/Myapps/ListviewDemo/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="2981166174220"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/rishabh/Desktop/AndroidApps/Myapps/ListviewDemo/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="3027859059268"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/rishabh/Desktop/AndroidApps/Myapps/ListviewDemo/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

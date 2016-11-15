@@ -1,0 +1,7 @@
+#Thu Nov 10 11:39:00 IST 2016
+base.0=/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_45fa2d7d49e257ad465b4714bf5b6cab08c34527
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7774815fbe06c411d98da44e89d1e97369b231c3/classes.dex
+base.1=/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7774815fbe06c411d98da44e89d1e97369b231c3
+file.0=/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_45fa2d7d49e257ad465b4714bf5b6cab08c34527/classes.dex

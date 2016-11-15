@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_7c50079120469e8ae4f16677531879c256c88f2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_3d8adb01d10e6418731d2241f6a21d7adff24645/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_002f96a735d2f5f5c28a02a2f64b91356cc4b1c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5107fca22310926d04bcf87b5607815787ee725">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4349f1b6e442673a4b03102004d4bfa4487297b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_176fa00a842d8f0e917f9690353edc2f660b0157/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_7222a44ddcdd66e9dff2c07e69117f8da95f8d3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_800a03bb3597e2b0e85149fe9af567a775fb6274/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_eec28c8415e6180cce65db9d4e3b5323dc65ed15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7b9db9c8c6f8e1a3786a7afe0b18c8ac185370b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_7645f9f9e2ba4b260a7595afd8b5f6a2488a4a8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_ba18ec5a66a0cb6bf33f8e78c5c1a7c482c5a3ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67fc9e7497f1d4a2669aaf0844c04ecfb20cf316">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2aee9ffb24db7cb95562a789f125329577daacb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d13f2c694521b16b47781e2313bca8180b425f01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_1e4ed43886888601f5e9f7924f869d0fd24d692f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_fd09099f00a4c6c8851853d3e8cbd4c1c0851e9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_f9bdb7b7e8b1d1fc0ebf5318cb8d4c936ac4e913/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_1629cf0b68dc0ac34e8d28fa4eaa7a02979debe2/classes.dex" />
+    </item>
+
+</items>

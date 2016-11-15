@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_abb91ee4f8f2ef57f5c1d042fc0979d1ee687f25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_679819d91841428848dac5d479b9f874ee59f526/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_5b35256d22d6bad56c8d379505898a3b84005d9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09ee8a00b46b1a2d44fca1f912fae344f55cfd18">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_36a8e2f0acf91e807b0d7f882d2140287d39fd72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_73a23d08448e030ebabc1a452eaa481ba6b7c578/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_4da7a3da92b3629a359ac63dde573c02f722fbdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_79ba9396321194f7f64223a32452aed881659b0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39b77b96563b46a108b49d1953aaff84ba8adc09">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_88ae7799dc7ed0a703ce84c3ce1c59a659ecb47c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_e4177a030d95b15bd1392c088b6af285b9a6841b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_c05b0707b28733fa4d63891623632a08f571c67c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_4bd28a56ac0f28a8f826aee0b8066bdf6e763e85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_3d8adb01d10e6418731d2241f6a21d7adff24645/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_4ddea572f2cdce13f6e2cde2eb0694366f3460f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_9f73c512967b6d60c4581067efe0b770d3b5661f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_eace2677fb10bd28236591531f4450bf1eedeb98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_906a00282de52838cc2458c8dcff5b86458956a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_e1dca09d6bb3232566bab78ff054a9ae4daf063d/classes.dex" />
+    </item>
+
+</items>

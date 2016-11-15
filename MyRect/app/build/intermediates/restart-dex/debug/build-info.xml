@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="25"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="807781776123"
+    token="7271706249199776454"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="251" />
+    <task
+        name="instant-run-dex"
+        duration="38" />
+    <task
+        name="instant-run-transform"
+        duration="91" />
+    <task
+        name="verifier"
+        duration="12" />
+
+    <artifact
+        location="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="603464049158"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="750844126891"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="807781776123"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/rishabh/Desktop/AndroidApps/Myapps/MyRect/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

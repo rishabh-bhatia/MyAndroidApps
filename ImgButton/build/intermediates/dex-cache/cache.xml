@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_d232669d5d4d8e1b323c5c56939f9ea3eef151f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6310a8a028ffc44c94ae8f7b020476e79f2ee972">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7774815fbe06c411d98da44e89d1e97369b231c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_3d8adb01d10e6418731d2241f6a21d7adff24645/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="419072bd50a8faec9874047e327f9ec359754e85">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_45fa2d7d49e257ad465b4714bf5b6cab08c34527/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_efedc63806eaa11e4e54508324c9252de66eea1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_95317aeba5e5789bb55b2f73ed699de94dd793ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_387d68785094e1ebaf069aad7c178025525529a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_1112837672c76cf42091ba6ef0090d93c98b4128/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_85c34415e13b4aeb2d1a39e6747ca98219a6d8ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_082de486d7016d6b94eaa9907d52e4986dc426fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2422f643156b0a195eeac867a644dbaa698aaf7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_40ce8befbada89a62ae8c7f2a4a8ca8f011e33d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9228a0e74d943dd9256f63e914ebbb1f1cff80db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_e0622911798cd372ea80cc499b262342c97f0d2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_ea9380d70774bb03add80e664bd64d298ea208bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_523ec7f4d774ec7ab7bbf8316437bd27162a3c5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/ImgButton/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_797a267ca3d54977e943d9b67dc6635c290a512f/classes.dex" />
+    </item>
+
+</items>

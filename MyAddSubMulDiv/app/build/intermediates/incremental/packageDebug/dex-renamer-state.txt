@@ -1,0 +1,7 @@
+#Fri Oct 28 22:49:50 IST 2016
+base.0=/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_15efddee607c56d7e4b7ec112b0a42b3be04507d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f0b8b8f930ac6624e377f3881976403e0e8b0d5e/classes.dex
+base.1=/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f0b8b8f930ac6624e377f3881976403e0e8b0d5e
+file.0=/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_15efddee607c56d7e4b7ec112b0a42b3be04507d/classes.dex

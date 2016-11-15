@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_3877e282b83fd4578c6df993937e4b6058e00642/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_3f94b6ec482b2ec99f78bd1214645427942bf9d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_1d46d6e5e05ca0ca64a48498097bc793e9a7f006/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8141217554e26c457b84d4870cd869cba73c2e09">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_21ad2e4bd4bfd667b0ac349feeece680a805d423/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_10fa35081be835a98402976c93b931021c69ba26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_5e63bcb6f42b51b4159199c0c7b2a34defe54979/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_740f789585cce1b41624aed0e518d0d2bb802d0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_457abc24f08c8c871f21c333f827be1f3ef8d282/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_f34f31630269576ee7c646190ac60b5b99d2912c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc0de24c0660877609eeb0613ec368176e28e79">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4b9ddea0be1e9e3e49d201ebe2b09c23f08f54bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7adbe8b7120f3659dcbcfbd4b29b00b0f6c2354d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_77c8c20a1b69c8c29a29d66ed6f0feffe7715bba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_4320996d5219ae6345dc0f51f60702998d1f69d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_3d8adb01d10e6418731d2241f6a21d7adff24645/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_c4f6b17631733e215497da1b3e36a0b8242816fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_2bdde4d2ca92f2bebfa0091b2f10d917b46a7c84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8a601d1464ecb0d21ee83b97d7cb273afda9a085/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_7369e6a6a3f0a8e8f9be1a7935ad0c93a5084b0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_be1f8d4f3a6af68d07ffce7d59503a3b3514dcca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/rishabh/Desktop/AndroidApps/Myapps/LoginPage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_dd418683f7f4d09bb2af6263060933ccb9ee54bf/classes.dex" />
+    </item>
+
+</items>

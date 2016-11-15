@@ -1,0 +1,7 @@
+#Mon Nov 07 11:34:00 IST 2016
+base.0=/Users/rishabh/Desktop/AndroidApps/Myapps/CheckBoxListviewOperations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9712570bc7f7c4c25862b9dd389f546dae4c3214
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/rishabh/Desktop/AndroidApps/Myapps/CheckBoxListviewOperations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5e40b53d570deae971cb0fa0b11884164a0c3bb3/classes.dex
+base.1=/Users/rishabh/Desktop/AndroidApps/Myapps/CheckBoxListviewOperations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5e40b53d570deae971cb0fa0b11884164a0c3bb3
+file.0=/Users/rishabh/Desktop/AndroidApps/Myapps/CheckBoxListviewOperations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9712570bc7f7c4c25862b9dd389f546dae4c3214/classes.dex

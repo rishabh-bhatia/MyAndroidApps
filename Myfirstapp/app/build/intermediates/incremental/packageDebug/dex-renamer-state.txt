@@ -1,0 +1,7 @@
+#Mon Nov 07 02:22:33 IST 2016
+base.0=/Users/rishabh/Desktop/AndroidApps/Myapps/Myfirstapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_504ca039b77ed9b43b5d3aff3303248dc03cb237
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/rishabh/Desktop/AndroidApps/Myapps/Myfirstapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_701bb008470b5830498ae47cbd59741731cd359b/classes.dex
+base.1=/Users/rishabh/Desktop/AndroidApps/Myapps/Myfirstapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_701bb008470b5830498ae47cbd59741731cd359b
+file.0=/Users/rishabh/Desktop/AndroidApps/Myapps/Myfirstapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_504ca039b77ed9b43b5d3aff3303248dc03cb237/classes.dex

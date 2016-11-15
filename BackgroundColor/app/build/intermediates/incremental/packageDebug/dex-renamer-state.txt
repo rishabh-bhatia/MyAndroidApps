@@ -1,0 +1,7 @@
+#Sat Nov 05 01:54:08 IST 2016
+base.0=/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_36a8e2f0acf91e807b0d7f882d2140287d39fd72
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_88ae7799dc7ed0a703ce84c3ce1c59a659ecb47c/classes.dex
+base.1=/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_88ae7799dc7ed0a703ce84c3ce1c59a659ecb47c
+file.0=/Users/rishabh/Desktop/AndroidApps/Myapps/BackgroundColor/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_36a8e2f0acf91e807b0d7f882d2140287d39fd72/classes.dex

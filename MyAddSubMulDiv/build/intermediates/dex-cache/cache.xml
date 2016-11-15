@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="621f8099243c3a59c694212d407d94e62c9d5b3d">
+        <dex dex="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_15efddee607c56d7e4b7ec112b0a42b3be04507d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_82251648f0e37efafb51e0eec79c1841f47c9f19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_98b6b61ac89bc5a36ba03ac3eef864a070a8a1fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_7ab49532cbbbab7cb0260549cc38b5f6c089b10f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_3380eea26ff7eb89d2df687920322d72b3b42e40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_3d8adb01d10e6418731d2241f6a21d7adff24645/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5edf3f1cf7d727cf5863f0948ba1d341849e4a68">
+        <dex dex="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f0b8b8f930ac6624e377f3881976403e0e8b0d5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_403fb9f213901c9bddba7045daeefadfaace42b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ac44c78feaf957ee68da65d3daf78eb97ec9dded/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_8ac4983494c403e735d912f4092d8728250e0386/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8a4af03ba40d3f27c7235def5b4d2b75989b5839/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_89afed8e8a13bb295278def940853dfaa58689df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_2e4dea18fd07395f1e03788aae83d0c691cb0ba8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_56ab8c46435800c5ae620fce6a85edd0235683b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_dc14470c795e756036d82949457dc8a63c1f2624/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_371cadbbecca344cc48e2e1d56fc962df7b5c35a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_6518634b3ea8270c39c1b110899414d99a01cea3/classes.dex" />
+    </item>
+
+</items>

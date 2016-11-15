@@ -1,0 +1,7 @@
+#Sun Nov 06 14:13:22 IST 2016
+base.0=/Users/rishabh/Desktop/AndroidApps/Myapps/RadioOperations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bce21351607d8d849333ccb999c68716150e5829
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/rishabh/Desktop/AndroidApps/Myapps/RadioOperations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_50b067ad8f185dac9ef823dceabbc86f6e572dc0/classes.dex
+base.1=/Users/rishabh/Desktop/AndroidApps/Myapps/RadioOperations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_50b067ad8f185dac9ef823dceabbc86f6e572dc0
+file.0=/Users/rishabh/Desktop/AndroidApps/Myapps/RadioOperations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bce21351607d8d849333ccb999c68716150e5829/classes.dex

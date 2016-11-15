@@ -1,0 +1,7 @@
+#Sun Nov 06 14:23:32 IST 2016
+base.0=/Users/rishabh/Desktop/AndroidApps/Myapps/CheckBoxStringBuffer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eca8bc695c97519de99ca008d321e95670b531bd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/rishabh/Desktop/AndroidApps/Myapps/CheckBoxStringBuffer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_63cfad6bbdfea5579bfa4e17054c0cd679709a84/classes.dex
+base.1=/Users/rishabh/Desktop/AndroidApps/Myapps/CheckBoxStringBuffer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_63cfad6bbdfea5579bfa4e17054c0cd679709a84
+file.0=/Users/rishabh/Desktop/AndroidApps/Myapps/CheckBoxStringBuffer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eca8bc695c97519de99ca008d321e95670b531bd/classes.dex

@@ -1,0 +1,7 @@
+#Mon Nov 07 10:13:30 IST 2016
+base.0=/Users/rishabh/Desktop/AndroidApps/Myapps/SpinnerOperations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cc9d584553200f3ed2f0f2dc2d7e2c2d0112aff2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/rishabh/Desktop/AndroidApps/Myapps/SpinnerOperations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2d067e20f9b944d3e0a3141014d5d07110872aa6/classes.dex
+base.1=/Users/rishabh/Desktop/AndroidApps/Myapps/SpinnerOperations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2d067e20f9b944d3e0a3141014d5d07110872aa6
+file.0=/Users/rishabh/Desktop/AndroidApps/Myapps/SpinnerOperations/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cc9d584553200f3ed2f0f2dc2d7e2c2d0112aff2/classes.dex

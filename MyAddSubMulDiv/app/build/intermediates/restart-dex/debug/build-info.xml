@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="25"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="10047389559191"
+    token="8169698774594312817"
+    verifier="R_CLASS_CHANGE" >
+
+    <task
+        name="javac"
+        duration="522" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="59" />
+    <task
+        name="verifier"
+        duration="23" />
+
+    <artifact
+        location="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="9918116579568"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="10047389559191"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/rishabh/Desktop/untitled folder/AndroidApp/MyAddSubMulDiv/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

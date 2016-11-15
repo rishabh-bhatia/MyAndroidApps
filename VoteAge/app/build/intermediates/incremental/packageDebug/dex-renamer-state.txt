@@ -1,0 +1,7 @@
+#Fri Oct 28 21:43:35 IST 2016
+base.0=/Users/rishabh/Desktop/untitled folder/AndroidApp/VoteAge/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_60dd25fe3a2096623603ead77f38b5167526b2bd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/rishabh/Desktop/untitled folder/AndroidApp/VoteAge/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f923cb5c0dd993b480615aa8803d21bb96d04f5b/classes.dex
+base.1=/Users/rishabh/Desktop/untitled folder/AndroidApp/VoteAge/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f923cb5c0dd993b480615aa8803d21bb96d04f5b
+file.0=/Users/rishabh/Desktop/untitled folder/AndroidApp/VoteAge/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_60dd25fe3a2096623603ead77f38b5167526b2bd/classes.dex
